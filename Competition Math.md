@@ -4,7 +4,7 @@
 
 > Will this advice get me from x to y within z time?
 
-No guarantees.
+No definntely guarantees.
 
 > What if I can't do a problem?
 
