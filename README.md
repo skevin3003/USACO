@@ -8,7 +8,7 @@ In competitive programming contests, one must solve well-defined problems by wri
 
 I am currently not updating the following pages:
 
- * README's for most implementations
+ * README's for most contest because they are complete
  * tables and solutions for non-platinum USACO contests
 
 If you would like to contribute, provide feedback, or encourage me to update something, please email me at *bqi343@gmail.com* or submit a pull request. If you have a question, it may be answered by another file in this folder.
@@ -29,3 +29,10 @@ The following links may also be helpful.
   * [Philippines OI: Prepare](https://noi.ph/prepare/)
   * [Schedule for Beginners](https://www.quora.com/What-is-a-good-schedule-to-follow-for-becoming-better-at-competitive-programming-for-beginners)
   * [E869120 Tutorial](http://codeforces.com/blog/entry/53341)
+I recommend that you use C++, even if you already know some other language such as Java or Python (see "resources"). A solid foundation in math (ex. AIME qualification) can help greatly.
+
+  * [C++ Tutorial](https://www.google.com/url?q=http%3A%2F%2Fwww.cplusplus.com%2Fdoc%2Ftutorial%2F&sa=D)
+  * [CodeSignal](https://codesignal.com/)
+    * good way to practice syntax
+  * [AtCoder](http://atcoder.jp/)
+    * beginner contests are good
