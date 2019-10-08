@@ -1,6 +1,6 @@
 # Questions & Comments
 
-You might want to read [this](https://codeforces.com/blog/entry/47516) too.
+You might want to read [this](https://codeforces.com/blog/entry/47516) too. THis is importnatn
 
 ## General
 
