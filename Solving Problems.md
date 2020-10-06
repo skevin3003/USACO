@@ -16,7 +16,7 @@ Case 1: You (think) know how to do it.
 
 For example, division 2 A-D usually just test common sense. Doing a lot of division 2 and educational rounds during school helps. Other times, it can be a Div 1 H which you can recognize as suffix array + RMQ + persistent segment tree. In this case, make sure that you have a good library of data structures.
 
-Case 2: You don’t have any immediate ideas.
+Case 2: You don’t  any immediate ideas.
 
 First, switch problems until case 1 occurs, if possible. Otherwise, let’s assume that you are stuck. If you have multiple unsolved problems, preferably do the easier ones first. However, do not spend all your time on one problem, as I did for E during the last combined CodeForces round when F could be solved much more quickly. (For reference, the former took me 49 minutes, while the latter took me 8 minutes.) Of course, the same goes for math contests. :o
 
