@@ -10,7 +10,7 @@ Usually I just ignore the problems which are solved by a negligible amount of pe
 
 (Not sure how helpful this is, let me know if you have a better method.)
 
-First, scan the problem. Note the limits on the variables and the time limit.
+First, scan the problem. Note the limits on  variables and the time limit.
 
 Case 1: You (think) know how to do it.
 
