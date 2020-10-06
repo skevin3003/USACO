@@ -4,7 +4,7 @@ You might want to read [this](https://codeforces.com/blog/entry/47516) too.
 
 ## General
 
-> Hey, could you help me get started with competitive programming.
+> Hey,  you help me get started with competitive programming.
 
 > Please suggest me some steps how I can get better in competitive programming.
 
